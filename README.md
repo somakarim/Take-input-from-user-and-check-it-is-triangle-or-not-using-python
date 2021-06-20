@@ -1,0 +1,1 @@
+# Take-input-from-user-and-check-it-is-triangle-or-not-using-python
